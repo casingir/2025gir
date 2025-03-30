@@ -4,6 +4,9 @@ Bu döküman, 2025 yılı içinde çeşitli şehirlerdeki kullanıcıların Casi
 Amaç, bilinçli kullanıcı deneyimini güçlendirmek ve karşılaşılabilecek durumlara ışık tutmaktır.
 
 ---
+![Casinra Bonus Ekranı](https://github.com/casingir/2025gir/blob/main/Adsız%2015.jpg)
+
+
 
 ## ⚠️ Yatırım Gecikmesi – Onay Atlandı
 
@@ -36,6 +39,10 @@ Platformun erişim adresi BTK politikaları nedeniyle değişebiliyor. En günce
 ---
 
 ## 🎁 Bonus Kullanımı – Çevrim Detayları Anlaşılmadı
+
+![Casinra Bonus Ekranı](https://github.com/casingir/2025gir/blob/main/Adsız%2016.jpg)
+
+
 
 **Kullanıcı:** Murat S.  
 **Şehir:** İstanbul
